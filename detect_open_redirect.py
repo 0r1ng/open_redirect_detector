@@ -1,4 +1,3 @@
-cat > detect_open_redirect_all.py << 'PY'
 #!/usr/bin/env python3
 import sys
 import re
@@ -367,4 +366,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-PY
